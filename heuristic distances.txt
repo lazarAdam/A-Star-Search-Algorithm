@@ -1,0 +1,11 @@
+TOWN             ALe Alx Aus Bau Bem Bra Clq Crk DLk Dul
+AlbertLea          - 168  15 338 294 191 227 365 214 183
+Alexandria         -   - 226 220 103  83 183 154  78 149
+Austin             -   -   - 429 308 189 214 370 301 205
+Baudette           -   -   -   -  74 155 176 162 192 162
+Bemidji            -   -   -   -   -  86 134  81  64 112
+Brainerd           -   -   -   -   -   -  93 176  83  96
+Cloquet            -   -   -   -   -   -   - 222 188  18
+Crookston          -   -   -   -   -   -   -   -  73 235
+DetroitLakes       -   -   -   -   -   -   -   -   - 184
+Duluth             -   -   -   -   -   -   -   -   -   -

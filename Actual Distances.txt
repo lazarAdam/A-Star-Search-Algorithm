@@ -1,0 +1,11 @@
+TOWN             ALe Alx Aus Bau Bem Bra Clq Crk DLk Dul
+AlbertLea          -   -  22   -   -   -   -   -   -   -
+Alexandria         -   -   -   -   -   -   -   -   -   -
+Austin             -   -   -   -   -   -   -   -   -   -
+Baudette           -   -   -   - 101   -   -   -   -   -
+Bemidji            -   -   -   -   -  97   -  88  91   -
+Brainerd           -   -   -   -   -   -  98   -  92   -
+Cloquet            -   -   -   -   -   -   -   -   -  21
+Crookston          -   -   -   -   -   -   -   -  92   -
+DetroitLakes       -   -   -   -   -   -   -   -   -   -
+Duluth             -   -   -   -   -   -   -   -   -   -
